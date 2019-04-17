@@ -1,6 +1,6 @@
 # LINUX BOOTCAMP'19
 
-A event by IEEE Student Branch DIT University.
+A four daysworkshop by IEEE Student Branch DIT University on `Linux` and `Cloud: Azure`.
 Please find all the content of the workshop in the repo.
 
 ### Resources:
